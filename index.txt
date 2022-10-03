@@ -1,1 +1,1 @@
-CharacterCommands-main/CharacterCommands.lua
+CharacterCommands-main/addons/CharacterCommands.lua
